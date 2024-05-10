@@ -17,7 +17,7 @@ app.config['UPLOAD_FOLDER'] = "./static/profile_pics"
 
 SECRET_KEY = 'SPARTA'
 
-# MONG0DB_CONNECTION_STRING = "mongodb+srv://Basilius:mario@cluster01.biqbzlj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster01"
+# MONG0DB_CONNECTION_STRING = "mongodb://sparta:123@ac-noo9u4e-shard-00-00.uurp56w.mongodb.net:27017,ac-noo9u4e-shard-00-01.uurp56w.mongodb.net:27017,ac-noo9u4e-shard-00-02.uurp56w.mongodb.net:27017/?ssl=true&replicaSet=atlas-g38sd1-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0"
 
 # client = MongoClient(MONG0DB_CONNECTION_STRING)
 
